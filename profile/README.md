@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 -->
 
 ![Top Langs](https://github-readme-stats-phi-gold-48.vercel.app/api/top-langs/?username=LeNigloNarvalo&count_private=true&layout=normal&langs_count=20&theme=dracula&card_width=750&columns=2&total_bar=true&cache_bust=2)
+![Metrics](https://raw.githubusercontent.com/LeNigloNarvalo/LeNigloNarvalo/main/github-metrics.svg)
