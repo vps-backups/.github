@@ -1,7 +1,6 @@
 <!--
 ## Hi there 👋
 
-
 **LeNigloNarvalo/LeNigloNarvalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-stats-extended-rho.vercel.app/api/top-langs/?username=LeNigloNarvalo&count_private=true&layout=normal&langs_count=20&theme=dracula&card_width=750&columns=2&total_bar=true&role=OWNER,ORGANIZATION_MEMBER&cache_bust=1)](https://github.com/LeNigloNarvalo/github-stats-extended)
+[![Top Langs](https://github-stats-extended-rho.vercel.app/api/top-langs/?username=LeNigloNarvalo&count_private=true&layout=normal&langs_count=20&theme=dracula&card_width=750&columns=2&total_bar=true&role=OWNER,ORGANIZATION_MEMBER&cache_bust=2)](https://github.com/LeNigloNarvalo/github-stats-extended)
 ![Metrics](https://raw.githubusercontent.com/LeNigloNarvalo/LeNigloNarvalo/main/github-metrics.svg)
